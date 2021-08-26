@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean Reyboz
+## 👋 Hi, I’m Sean Reyboz
 - 🐧 I'm a GNU/Linux enthusiast
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
