@@ -12,6 +12,5 @@
 
 <div style="display: flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeanReyboz&show_icons=true&count_private=false&theme=omni"/>
-  &ensp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanReyboz&langs_count=8&exclude_repo=suckless&layout=compact&theme=omni"/>
 </div>
